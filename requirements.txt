@@ -1,0 +1,6 @@
+# Nenhuma biblioteca externa é estritamente necessária para o arquivo protocol.py.
+# Todas as dependências utilizadas nele (json, zlib, random, time, socket) 
+# já fazem parte da Biblioteca Padrão (Standard Library) do Python.
+
+# Caso você decida usar alguma biblioteca externa no futuro (como 'pytest' para testes,
+# ou 'colorama' para colorir o terminal), você pode adicioná-las aqui.
