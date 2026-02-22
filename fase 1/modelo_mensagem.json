@@ -1,0 +1,5 @@
+{
+    "sender": "string",
+    "message": "string",
+    "timestamp": "string"
+}
